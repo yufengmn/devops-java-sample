@@ -16,7 +16,7 @@ npipeline {
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'yufengmn'
         GITHUB_ACCOUNT = 'yufengmn'
-        APP_NAME = 'devops-java-sample-v1'
+        APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
